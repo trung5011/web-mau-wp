@@ -1,0 +1,138 @@
+[15-Sep-2018 01:47:47 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/damsent1/public_html/wp-content/themes/damsen/index.php:44
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/index.php on line 44
+[15-Sep-2018 06:26:46 UTC] PHP Parse error:  syntax error, unexpected 'the_permalink' (T_STRING), expecting ',' or ';' in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 35
+[15-Sep-2018 06:44:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 42
+[15-Sep-2018 06:44:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 42
+[15-Sep-2018 06:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/single.php:28
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 28
+[15-Sep-2018 07:00:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/single.php:28
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 28
+[15-Sep-2018 07:02:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/single.php:28
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 28
+[15-Sep-2018 07:02:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/single.php:28
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 28
+[15-Sep-2018 07:02:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/single.php:28
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 28
+[15-Sep-2018 07:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/single.php:28
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 28
+[15-Sep-2018 07:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/single.php:28
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 28
+[15-Sep-2018 07:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/single.php:28
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 28
+[15-Sep-2018 07:03:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/single.php:28
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 28
+[15-Sep-2018 07:20:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/single.php:28
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 28
+[15-Sep-2018 07:24:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/single.php:28
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 28
+[15-Sep-2018 07:25:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/contact.php:42
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/contact.php on line 42
+[15-Sep-2018 07:25:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/contact.php:42
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/contact.php on line 42
+[15-Sep-2018 07:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/contact.php:42
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/contact.php on line 42
+[15-Sep-2018 07:25:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/contact.php:21
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/contact.php on line 21
+[15-Sep-2018 07:26:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/contact.php:21
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/contact.php on line 21
+[15-Sep-2018 07:26:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/damsent1/public_html/wp-content/themes/damsen/contact.php:21
+Stack trace:
+#0 /home/damsent1/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/damsent1/public_html/wp-blog-header.php(19): require_once('/home/damsent1/...')
+#2 /home/damsent1/public_html/index.php(17): require('/home/damsent1/...')
+#3 {main}
+  thrown in /home/damsent1/public_html/wp-content/themes/damsen/contact.php on line 21
+[15-Sep-2018 07:29:07 UTC] PHP Recoverable fatal error:  Object of class WP_Query could not be converted to string in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 29
+[18-Sep-2018 08:33:00 UTC] PHP Parse error:  syntax error, unexpected '>', expecting end of file in /home/damsent1/public_html/wp-content/themes/damsen/single.php on line 41
+[23-Sep-2018 09:29:37 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/damsent1/public_html/wp-content/themes/damsen/nha-mau.php on line 50
+[23-Sep-2018 09:30:09 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/damsent1/public_html/wp-content/themes/damsen/nha-mau.php on line 50
+[23-Sep-2018 09:30:11 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/damsent1/public_html/wp-content/themes/damsen/nha-mau.php on line 50
+[23-Sep-2018 09:30:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/damsent1/public_html/wp-content/themes/damsen/nha-mau.php on line 50
+[23-Sep-2018 09:31:10 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/damsent1/public_html/wp-content/themes/damsen/nha-mau.php on line 50
+[23-Sep-2018 09:32:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/damsent1/public_html/wp-content/themes/damsen/nha-mau.php on line 50
+[23-Sep-2018 09:39:15 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/damsent1/public_html/wp-content/themes/damsen/nha-mau.php on line 50

@@ -1,0 +1,3 @@
+[06-Oct-2018 16:32:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/damsent1/public_html/wp-content/plugins/contact-form-7-mailchimp-extension/lib/system.php on line 92
+[06-Oct-2018 16:40:17 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/damsent1/public_html/wp-content/plugins/contact-form-7-mailchimp-extension/lib/system.php on line 92
+[08-Oct-2018 01:57:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/damsent1/public_html/wp-content/plugins/contact-form-7-mailchimp-extension/lib/system.php on line 92
